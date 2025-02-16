@@ -1,0 +1,1602 @@
+[
+  {
+    "input": "I feel anxious",
+    "output": "It's okay to feel this way. Let's explore what's causing these feelings."
+  },
+  {
+    "input": "I'm stressed",
+    "output": "Stress can be overwhelming. Would you like to try a breathing exercise?"
+  },
+  {
+    "input": "I can't sleep",
+    "output": "Sleep difficulties are common with anxiety. Let's discuss relaxation techniques."
+  },
+  {
+    "input": "I'm overwhelmed",
+    "output": "You're not alone in this. Would you like to share more about what's overwhelming you?"
+  },
+  {
+    "input": "I feel lonely",
+    "output": "Loneliness can be painful. Remember I'm here to listen whenever you need."
+  },
+  {
+    "input": "I'm sad",
+    "output": "Sadness is a valid emotion. Let's talk about what's been happening lately."
+  },
+  {
+    "input": "I had a panic attack",
+    "output": "Panic attacks can be frightening. Let's focus on grounding techniques."
+  },
+  {
+    "input": "I'm grieving",
+    "output": "Grief is a natural process. Take all the time you need to heal."
+  },
+  {
+    "input": "I feel hopeless",
+    "output": "Hopelessness can feel heavy. Let's look for small steps forward together."
+  },
+  {
+    "input": "hello",
+    "output": "Hello, I'm Thera. How can I support you today?"
+  },
+  {
+    "input": "what is your name",
+    "output": "I'm Thera, your mental health support companion."
+  },
+  {
+    "input": "thank you",
+    "output": "You're welcome. Your well-being matters to me."
+  },
+  {
+    "input": "goodbye",
+    "output": "Goodbye. Remember self-care is important."
+  },
+  {
+    "input": "I feel guilty about something",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "Life feels meaningless",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I feel disconnected from everyone",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I can't express my emotions",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I keep comparing myself to others",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I feel like I'm not good enough",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I feel like giving up",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I feel like I'm running out of time",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I'm dealing with a breakup",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I'm struggling with social anxiety",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I'm worried about my family",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I'm scared of being alone",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I feel empty",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I feel anxious about my future",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I'm struggling to set boundaries",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I keep overthinking everything",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I'm worried about my family",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I feel like I don't belong",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel stuck in life",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I'm dealing with imposter syndrome",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel like I'm losing control",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I feel like giving up",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I feel emotionally drained",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I have no motivation",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I'm scared of change",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I feel anxious about my future",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I feel empty",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I feel unworthy of love",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I'm feeling burned out",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I feel rejected",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I feel exhausted all the time",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I keep overthinking everything",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel emotionally drained",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I'm struggling with low self-esteem",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I feel like nobody understands me",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I'm dealing with a breakup",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I'm struggling with social anxiety",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel misunderstood",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I'm feeling overwhelmed with responsibilities",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel anxious about my future",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I keep overthinking everything",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel unworthy of love",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I feel anxious about my future",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I can't express my emotions",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I'm scared of change",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I'm dealing with imposter syndrome",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I'm struggling with low self-esteem",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I'm finding it hard to trust people",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I'm having self-doubt",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I'm scared about my health",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I feel like a failure",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I feel anxious about my future",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I have difficulty making decisions",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel like I don't belong",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I'm struggling with my emotions",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I feel like I'm not good enough",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I don't enjoy my hobbies anymore",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I have no motivation",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I feel like I'm living on autopilot",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I keep getting intrusive thoughts",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I'm dealing with imposter syndrome",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I feel anxious about my future",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I'm having nightmares",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I'm having self-doubt",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I'm always tired",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel misunderstood",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I'm dealing with a breakup",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I feel like I'm living on autopilot",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I'm having nightmares",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm dealing with a breakup",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel rejected",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I have difficulty making decisions",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I keep comparing myself to others",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I'm having self-doubt",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I have no motivation",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I have trouble concentrating",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm struggling with social anxiety",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I feel like a failure",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I'm dealing with a breakup",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I feel like giving up",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I'm dealing with imposter syndrome",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I'm feeling overwhelmed with responsibilities",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I have trouble concentrating",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I'm dealing with imposter syndrome",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I feel empty",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I feel abandoned",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel like nobody understands me",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I can't express my emotions",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I feel misunderstood",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I feel like nobody understands me",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel anxious about my future",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I'm scared of being alone",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I feel rejected",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I'm always tired",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm struggling with my emotions",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I feel exhausted all the time",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I'm scared about my health",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I keep comparing myself to others",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I have difficulty making decisions",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I feel like I'm not good enough",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I feel rejected",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I'm feeling overwhelmed with responsibilities",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I keep avoiding my problems",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I get angry too easily",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I feel emotionally drained",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I keep overthinking everything",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I keep getting intrusive thoughts",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I'm feeling overwhelmed with responsibilities",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I feel like I'm not good enough",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "Life feels meaningless",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I keep overthinking everything",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I feel emotionally drained",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I keep avoiding my problems",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I'm dealing with imposter syndrome",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I keep overthinking everything",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I'm struggling to set boundaries",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I keep overthinking everything",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I'm always tired",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel exhausted all the time",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I feel like a failure",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I'm dealing with a breakup",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I feel like I'm not good enough",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I'm scared of change",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I feel exhausted all the time",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm scared of change",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I have difficulty making decisions",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I'm feeling burned out",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I feel stuck in life",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I feel like I'm losing control",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I keep getting intrusive thoughts",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I feel exhausted all the time",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I'm feeling overwhelmed with responsibilities",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I'm finding it hard to trust people",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I get angry too easily",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I'm struggling to set boundaries",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel misunderstood",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "Life feels meaningless",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I feel like giving up",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I'm scared about my health",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I have trouble concentrating",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I get angry too easily",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I feel guilty about something",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I'm struggling with my emotions",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I feel exhausted all the time",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I'm struggling to set boundaries",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I'm scared about my health",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I'm finding it hard to trust people",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I'm finding it hard to trust people",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I'm feeling burned out",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I don't know what to do anymore",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I'm having self-doubt",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel like I'm living on autopilot",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I feel anxious about my future",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I keep avoiding my problems",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I'm dealing with imposter syndrome",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I keep getting intrusive thoughts",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I feel like nobody understands me",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I feel like I don't belong",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I feel misunderstood",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel like a failure",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I'm scared of change",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I'm afraid of disappointing others",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I'm feeling burned out",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I'm struggling to set boundaries",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I'm afraid of disappointing others",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I get angry too easily",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I feel anxious about my future",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I'm feeling burned out",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel rejected",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I'm feeling overwhelmed with responsibilities",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "Life feels meaningless",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I have difficulty making decisions",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel like nobody understands me",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I'm worried about my family",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm struggling with low self-esteem",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I'm having nightmares",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I'm afraid of disappointing others",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I can't express my emotions",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel disconnected from everyone",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm worried about my family",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I have difficulty asking for help",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I feel like I'm running out of time",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I feel unworthy of love",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I keep comparing myself to others",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel rejected",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm struggling with my emotions",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I'm struggling with low self-esteem",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I feel anxious about my future",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I'm having nightmares",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I feel like I'm not good enough",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I feel unworthy of love",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel like I'm living on autopilot",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I feel anxious about my future",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I feel like I'm running out of time",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I don't enjoy my hobbies anymore",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I feel emotionally drained",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I'm afraid of disappointing others",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I can't express my emotions",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel abandoned",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I feel abandoned",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "Life feels meaningless",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I feel like I'm running out of time",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I have difficulty making decisions",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I feel like I don't belong",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I don't enjoy my hobbies anymore",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I'm scared of change",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I feel like I'm not good enough",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I'm always tired",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I feel like I'm losing control",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel like I'm not good enough",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel disconnected from everyone",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I feel disconnected from everyone",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I feel like I'm living on autopilot",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I'm having nightmares",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I feel empty",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I feel like I'm not good enough",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I'm dealing with a breakup",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I'm having self-doubt",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I feel exhausted all the time",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I'm struggling with social anxiety",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I feel disconnected from everyone",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel misunderstood",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I feel rejected",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I'm worried about my family",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel like I'm running out of time",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I feel emotionally drained",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I feel like I'm losing control",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I'm feeling burned out",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I feel like I don't belong",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I have no motivation",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I'm scared about my health",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I'm scared of being alone",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I feel like nobody understands me",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I'm having self-doubt",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel like a failure",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I feel like I'm running out of time",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I get angry too easily",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I keep comparing myself to others",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I'm feeling overwhelmed with responsibilities",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel misunderstood",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "Life feels meaningless",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I'm feeling overwhelmed with responsibilities",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I have no motivation",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I'm struggling with low self-esteem",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I'm scared of being alone",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I feel disconnected from everyone",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I'm having self-doubt",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I'm scared of change",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I keep avoiding my problems",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I'm scared of being alone",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I feel like I'm not good enough",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I'm struggling with my emotions",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel like nobody understands me",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I can't express my emotions",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I'm scared about my health",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel like nobody understands me",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I feel like I'm losing control",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I feel like I'm losing control",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel like nobody understands me",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I feel like giving up",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I'm struggling with social anxiety",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I keep comparing myself to others",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I'm scared about my health",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I feel emotionally drained",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel like a failure",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I can't express my emotions",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I'm finding it hard to trust people",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I'm having self-doubt",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I'm dealing with a breakup",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I feel disconnected from everyone",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I keep avoiding my problems",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I get angry too easily",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I'm having nightmares",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I keep getting intrusive thoughts",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I have difficulty asking for help",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I have difficulty making decisions",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I feel emotionally drained",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I'm struggling with low self-esteem",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I feel stuck in life",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm struggling with my emotions",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm feeling burned out",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I have no motivation",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I feel disconnected from everyone",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I feel rejected",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I feel like I'm not good enough",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I feel like nobody understands me",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I keep avoiding my problems",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I don't know what to do anymore",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I feel unworthy of love",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel anxious about my future",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I don't enjoy my hobbies anymore",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I feel like I'm not good enough",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I'm scared about my health",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I feel like I'm living on autopilot",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I'm having self-doubt",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I'm scared of change",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I keep getting intrusive thoughts",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I'm struggling with social anxiety",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I feel guilty about something",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I keep avoiding my problems",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I get angry too easily",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I'm feeling overwhelmed with responsibilities",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I have difficulty asking for help",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm scared of change",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I'm scared about my health",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I'm dealing with imposter syndrome",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I feel like a failure",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I keep getting intrusive thoughts",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I feel like I'm living on autopilot",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I feel disconnected from everyone",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I'm scared of change",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I feel guilty about something",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel like a failure",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel rejected",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I feel like nobody understands me",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I'm feeling burned out",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I'm scared of being alone",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I keep comparing myself to others",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel like I'm running out of time",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I feel empty",
+    "output": "Everyone has struggles, and it's okay to ask for help when you need it."
+  },
+  {
+    "input": "I'm scared of change",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I keep overthinking everything",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I'm struggling with my emotions",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I'm dealing with a breakup",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I have difficulty asking for help",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I feel like I'm running out of time",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I feel misunderstood",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm struggling with social anxiety",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I keep overthinking everything",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I feel like I don't belong",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I feel exhausted all the time",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I get angry too easily",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I can't express my emotions",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm having nightmares",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I have difficulty making decisions",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I'm struggling with social anxiety",
+    "output": "Self-care is important. What is something that usually brings you comfort?"
+  },
+  {
+    "input": "I don't know what to do anymore",
+    "output": "It's okay to feel this way. Self-compassion can be really helpful during difficult times."
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I'm always tired",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I'm having self-doubt",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel exhausted all the time",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I'm having nightmares",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I keep overthinking everything",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I'm finding it hard to trust people",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I feel guilty about something",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I'm afraid of disappointing others",
+    "output": "Sometimes journaling or talking about your feelings can bring clarity. Would you like to try that?"
+  },
+  {
+    "input": "I'm scared of being alone",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I'm struggling to set boundaries",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "Life feels meaningless",
+    "output": "Deep breathing and mindfulness can sometimes help. Would you like to try a short exercise?"
+  },
+  {
+    "input": "I'm having self-doubt",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I have a fear of failure",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I'm struggling with my emotions",
+    "output": "Have you been taking care of your basic needs, like sleep and nutrition?"
+  },
+  {
+    "input": "I keep getting intrusive thoughts",
+    "output": "It sounds like you're going through a tough time. What usually helps you feel better?"
+  },
+  {
+    "input": "I feel like I'm running out of time",
+    "output": "It's important to be kind to yourself. What are some things you appreciate about yourself?"
+  },
+  {
+    "input": "I keep getting intrusive thoughts",
+    "output": "I'm here for you. Would you like to talk about what's making you feel this way?"
+  },
+  {
+    "input": "I'm struggling to set boundaries",
+    "output": "When was the last time you did something that made you happy?"
+  },
+  {
+    "input": "I'm scared of change",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "If these feelings persist, seeking professional support might be beneficial."
+  },
+  {
+    "input": "I keep avoiding my problems",
+    "output": "You're not alone in this. Have you tried any relaxation techniques?"
+  },
+  {
+    "input": "I get angry too easily",
+    "output": "You're stronger than you think. I believe in you."
+  },
+  {
+    "input": "I keep comparing myself to others",
+    "output": "Your feelings are valid. Have you considered reaching out to a trusted friend or professional?"
+  },
+  {
+    "input": "I'm struggling at work",
+    "output": "I'm here to support you. Would you like to explore coping strategies together?"
+  },
+  {
+    "input": "I'm struggling with social anxiety",
+    "output": "Taking small steps can help. What is one thing you can do right now to take care of yourself?"
+  },
+  {
+    "input": "I feel like nobody understands me",
+    "output": "When was the last time you did something that made you happy?"
+  }
+]
