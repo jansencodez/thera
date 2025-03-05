@@ -13,6 +13,7 @@ origins = [
     "http://127.0.0.1:5500",
     "http://127.0.0.1:3000",
     "http://172.25.176.1:3000"
+    "https://chatbot-gamma-smoky.vercel.app/"
 ]
 
 app.add_middleware(
