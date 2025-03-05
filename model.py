@@ -9,7 +9,7 @@ from sklearn.preprocessing import LabelEncoder
 import pickle
 
 class TherapyBot:
-    def __init__(self, data_path="data/conversations.json"):
+    def __init__(self, data_path="data/output.json"):
         self.data_path = data_path
         self.tokenizer = Tokenizer(oov_token="<OOV>", lower=True)
         self.label_encoder = LabelEncoder()
@@ -22,7 +22,7 @@ class TherapyBot:
             with open(self.data_path, "r", encoding="utf-8") as file:
                 data = json.load(file)
 
-            # Handle both { "conversations": [...] } and [...] formats
+            # Handle both [...] formats
             if isinstance(data, dict) and "conversations" in data:
                 data = data["conversations"]
             elif not isinstance(data, list):
@@ -81,7 +81,7 @@ class TherapyBot:
     
     def train_model(self, X_train, y_train):
         early_stop = tf.keras.callbacks.EarlyStopping(monitor="loss", patience=20, restore_best_weights=True)
-        self.model.fit(X_train, y_train, epochs=400, batch_size=16, callbacks=[early_stop], verbose=1)
+        self.model.fit(X_train, y_train, epochs=500, batch_size=16, callbacks=[early_stop], verbose=1)
     
     def save_model(self):
         self.model.save("saved_model/model.keras")
@@ -101,7 +101,9 @@ class TherapyBot:
         crisis_keywords = {"suicide", "kill myself", "end it all", "self-harm", "want to die"}
         crisis_response = ("I'm deeply concerned about your safety. "
                            "Please contact the National Suicide Prevention Lifeline at 988 "
-                           "or reach out to a trusted professional immediately.")
+                           "or reach out to a trusted professional immediately."
+                           "For more support you can reach out to the following:\nRed Cross Kenya :0700395395 / 1199 \nBefrienders Kenya:0722178177 \nRed Cross gender based violence helpline: 0800720745 \nChiromo Hospital group : https//:chiromohospitalgroup.co.ke \nMental 360: https//:mental360.co.ke/"
+                           )
         
         if any(keyword in user_input.lower() for keyword in crisis_keywords):
             return crisis_response

@@ -21,6 +21,7 @@ crisis_response = (
     "I'm deeply concerned about your safety. "
     "Please contact the National Suicide Prevention Lifeline at 988 "
     "or reach out to a trusted professional immediately."
+    "For more support you can reach out to the following:\nRed Cross Kenya :0700395395 / 1199 \nBefrienders Kenya:0722178177 \nRed Cross gender based violence helpline: 0800720745 \nChiromo Hospital group : https//:chiromohospitalgroup.co.ke \nMental 360: https//:mental360.co.ke/"
 )
 
 async def generate_response(user_input: str):

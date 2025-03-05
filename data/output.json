@@ -1,5 +1,337 @@
 [
   {
+    "input": "Hey/hello",
+    "output": "Hey there, I'm therabot a trained therapy chatbot. How may I be of assistance to you today?"
+  },
+  {
+    "input": "I don’t know what's wrong with me.",
+    "output": "I'm sorry to hear that you're feeling that way. Could you share more about how you are feeling or what's troubling you?"
+  },
+  {
+    "input": "I'm just tired of being alive/ I can't go on anymore ",
+    "output": "It sounds like you are carrying a lot of pain. I'm sorry that you're feeling this way. Sometimes talking it out takes a load off. Do you want to talk about it? I'm here to listen and assist in any way I can."
+  },
+  {
+    "input": "I think I'm going to hurt/kill myself/end things./ I don't think I can do this anymore.",
+    "output": "I understand that you must be feeling really overwhelmed in order to have reached the point of wanting to end your life. I want you to remember that you are not alone even when it doesn’t feel that way. You matter, and your feelings are valid. If you are in immediate distress, please consider using this crisis hotlines. In the U.S: Text or call 988 (suicide & crisis lifeline)\nIn the UK: Call 116 123 (Suicide and crisis hotline)\nIn Canada: Call 1-833-456-4566(Talk suicide Canada)\nIn Kenya: call +254722178177 or email info@befrienderskenya.org\nElse where: You can find a list of international helplines at befrienders.org"
+  },
+  {
+    "input": "I just need someone to talk to.",
+    "output": "I'm here to listen. What's on your mind ?"
+  },
+  {
+    "input": "I'm scared to talk to anyone about how I feel.",
+    "output": "It’s okay to feel scared. Sharing your feelings is a big step, and I’m here to listen without judgment. You’re safe here. Let’s take it one step at a time."
+  },
+  {
+    "input": "I’m struggling with many of my relationships.",
+    "output": "feel numb and disconnected from everything."
+  },
+  {
+    "input": "I feel numb and disconnected from everything.",
+    "output": "Feeling numb can be a sign of emotional overload. It’s okay to feel this way. Let’s talk about what’s been going on in your life. You’re not alone, and I’m here to help."
+  },
+  {
+    "input": "I feel like I’m a burden to others.",
+    "output": "You are not a burden. Your feelings are very natural and it’s okay to ask for help. Let’s talk about why you feel this way. You matter, and your well-being is important."
+  },
+  {
+    "input": "I don’t feel like I have anyone to talk to.",
+    "output": "It's really brave of you to reach out. I'm here to listen. What's been on your mind lately?"
+  },
+  {
+    "input": "I think I might be depressed.",
+    "output": "Reaching out here is a very brave step and I'm glad you did it. Recognizing that you might be struggling with depression is an important first step and you're not alone in this. Depression is tough, but it is treatable, and things can get better with the right support and tools. Let me know if you'd like help finding resources or just need someone to listen."
+  },
+  {
+    "input": "I’m having trouble sleeping.",
+    "output": "Sleep issues can significantly impact your well-being. Have you tried any relaxation techniques before bedtime? I can suggest some if you’d like."
+  },
+  {
+    "input": "I feel bad / I don’t know / I feel weird/  I feel sad",
+    "output": "It sounds like you’re feeling lost today. Can you state more of what you’re experiencing. I can share with you some resources to help."
+  },
+  {
+    "input": "I’m tired of everything/ I want to die / I can’t go on anymore.",
+    "output": "I’m really sorry you’re feeling this way. I hear you and you’re feelings matter. You don’t have to go through all this alone. For immediate help, reach out to Red Cross Kenya (1199-Toll free). You can also contact anyone you trust and is close to you for help. Would you like me to help you find more resources ?"
+  },
+  {
+    "input": "I hate my self / I’m not good enough/ I’m mad at my self/ I’m not proud.",
+    "output": " I’m sorry you’re feeling this way. You matter and you’re enough just the way you are and you are beautifully and wonderfully made. Those around you are very lucky to have you. Try doing some affirmations to yourself if not so you can contact Chiromo Hospital for immediate support. What’s been the hardest thing for you?"
+  },
+  {
+    "input": "I've been feeling really lonely lately.",
+    "output": "I'm sorry to hear that. Loneliness can be tough to cope with. Would you like to talk about what's been making you feel this way or explore ways to connect with others?"
+  },
+  {
+    "input": "I’m scared of being alone.",
+    "output": "Fear of being alone is a natural feeling and you’re not alone in feeling this way. Let’s talk about what’s causing this fear. You’re stronger than you think, and I’m here to support you."
+  },
+  {
+    "input": "I’m struggling with self-esteem.",
+    "output": "Low self-esteem can be tough, but it’s something we can work on together. Let’s talk about what’s affecting your confidence. You’re worthy, and I’m here to help."
+  },
+  {
+    "input": "I feel like I’m not good at anything.",
+    "output": "You’re better than you think. Let’s talk about what’s making you feel this way. Everyone has strengths, and I’m here to help you see yours."
+  },
+  {
+    "input": "I feel like I’m not loved or appreciated",
+    "output": "You are loved and appreciated, even if it doesn’t feel that way right now. Let’s talk about what’s making you feel this way. Your feelings matter, and I’m here to listen."
+  },
+  {
+    "input": "I can't seem to focus on anything.",
+    "output": "It sounds like you're feeling overwhelmed. Sometimes, taking a break and practicing mindfulness can help. Would you like some tips on how to get started?"
+  },
+  {
+    "input": "I’m scared of being vulnerable.",
+    "output": "Vulnerability can be scary, but it’s also a sign of strength. Let’s talk about what’s making you feel this way. You’re safe here, and I’m here to support you."
+  },
+  {
+    "input": "I’m scared of being judged if I open up.",
+    "output": "It’s okay to feel this way. Opening up can be hard, but you’re safe here. I’m here to listen without judgment. Let’s take it one step at a time."
+  },
+  {
+    "input": "I feel like I’m not understood by anyone.",
+    "output": "Feeling misunderstood can be lonely. Let’s talk about what’s going on. You’re not alone, and I’m here to listen and understand you."
+  },
+  {
+    "input": "I'm feeling anxious about everything going on around me.",
+    "output": "t's understandable to feel anxious, especially with so much happening around us. Can you share what specifically is causing your anxiety? I'm here to help."
+  },
+  {
+    "input": "I feel like I'm not making any progress in life.",
+    "output": "It's common to feel stuck at times. Would you like to discuss your goals and see if there's a plan we can create together to help you move forward?"
+  },
+  {
+    "input": "I keep getting angry for no reason.",
+    "output": "Anger can be a sign of underlying issues. It’s important to explore what might be triggering these feelings. Would you like to talk about it?"
+  },
+  {
+    "input": "I feel like people don’t understand me.",
+    "output": "That can be really isolating. I’m here to listen to your feelings. Can you share more about your experiences?"
+  },
+  {
+    "input": "I’m worried about my future and what it holds for me.",
+    "output": "It's natural to feel uncertain about the future. What specific concerns do you have? Sometimes discussing them can help bring clarity."
+  },
+  {
+    "input": "I'm stressed about work/school.",
+    "output": "Work and school stress can feel overwhelming. Let’s break it down—what’s causing the most stress? Sometimes prioritizing tasks or taking breaks can help. Would you like some stress-management tips?"
+  },
+  {
+    "input": "I’m having panic attacks.",
+    "output": "Panic attacks can be frightening. Remember, they will pass. Try grounding techniques like focusing on your breath. Would you like more tips or resources to manage panic attacks?"
+  },
+  {
+    "input": "I’m struggling with guilt over something I did.",
+    "output": "Guilt can be heavy, but it’s okay to feel this way. Let’s talk about what’s causing your guilt. You’re not alone, and I’m here to help you work through it."
+  },
+  {
+    "input": "I feel like I’m not getting the support I need.",
+    "output": "It’s okay to feel this way. Let’s talk about what kind of support you’re looking for. You’re not alone, and I’m here to help you find the resources you need."
+  },
+  {
+    "input": "I’m struggling with feelings of regret.",
+    "output": "Regret can take a heavy toll on someone but it’s okay to feel this way. Let’s talk about what’s causing your regret. You’re not alone, and I’m here to help you work through it."
+  },
+  {
+    "input": "I’m struggling with jealousy when I'm around my peers.",
+    "output": "Jealousy can be tough, but it’s something we can work on. Let’s talk about what’s causing these feelings. You’re not alone, and I’m here to help."
+  },
+  {
+    "input": "I’m struggling with trust issues.",
+    "output": "Trust issues can be tough, but they’re something we can work on. Let’s talk about what’s causing these feelings. You’re not alone, and I’m here to help."
+  },
+  {
+    "input": "How can I stop negative thoughts?",
+    "output": "Negative thoughts can be persistent, but you can challenge them by practicing self-compassion, reframing perspectives, and using positive affirmations. Would you like to try a simple thought-reframing exercise?"
+  },
+  {
+    "input": "I feel like I’m not good enough for my family.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I’m struggling with feelings of hopelessness.",
+    "output": "Hopelessness can feel overwhelming, but you’re not alone. Let’s talk about what’s going on. You’re stronger than you think, and I’m here to help you see that."
+  },
+  {
+    "input": "I feel like I’m not good enough for my friends.",
+    "output": "You are enough just as you are. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my job.",
+    "output": "You are just sufficient and adequate as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by your job, and I’m here to support you."
+  },
+  {
+    "input": "I don’t feel motivated to do anything.",
+    "output": "Lack of motivation can come from burnout, stress, or feeling stuck. Sometimes, taking small steps and celebrating tiny wins can help. Would you like some tips to regain motivation?"
+  },
+  {
+    "input": "I feel overwhelmed with my responsibilities.",
+    "output": "It’s understandable to feel overwhelmed at times. Breaking tasks into smaller steps, prioritizing, and taking breaks can help. Would you like some time management tips?"
+  },
+  {
+    "input": "I feel lonely even when I’m around people.",
+    "output": "Loneliness can be tough. It might help to connect with someone you trust or explore new hobbies that bring you joy. Would you like me to suggest ways to build meaningful connections?"
+  },
+  {
+    "input": "I’m struggling with feelings of shame.",
+    "output": "Shame can make someone be shy in public but it’s okay to feel this way. Let’s talk about what’s causing your shame. You’re not alone, and I’m here to help you work through it."
+  },
+  {
+    "input": "I’m struggling with feelings of emptiness.",
+    "output": "Feeling empty can be really draining, but remember you’re not alone. Let’s talk about what’s going on. You’re stronger than you think, and I’m here to help you see that."
+  },
+  {
+    "input": "What influences negative thoughts or positive thoughts?",
+    "output": "Negative thoughts can be influenced by past experiences that causes PTSD, stress and low self-esteem while positive thoughts come from focusing on supportive relationships, self-care and prioritising on small wins. Understanding what triggers your emotions is key to help you shift your thinking patterns. Would you like some healthy practices to cultivate a positive mindset?"
+  },
+  {
+    "input": "What can I do to avoid negative thoughts?",
+    "output": "While it is difficult to completely avoid negative thoughts, you can manage them by identifying and avoiding triggers, engaging in positive self-talk and surrounding yourself with supportive people. Activities like regular exercises and meditation can also help redirect your focus away from negativity. Would you mind trying a thought-restructuring exercise to help divert your energy on negativity?"
+  },
+  {
+    "input": "How would I know if my friend is suffering with depression?",
+    "output": "Signs of depression in a friend may include persistent sadness, withdrawal from social activities, mild or extreme changes in sleeping or eating patterns and a general lack of interest in the things they previously enjoyed. If you're genuinely concerned about a friend, checking up on them and offering support can make the difference. Would you like tips on how to help them?"
+  },
+  {
+    "input": "I’m scared of being judged for my past.",
+    "output": "It’s okay to feel this way. Your past doesn’t define you. Let’s talk about what’s worrying you. You’re safe here, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not living up to expectations.",
+    "output": "It’s easy to feel this way, but you’re doing your best. Let’s talk about what’s making you feel this way. You’re enough just as you are, and I’m here to help."
+  },
+  {
+    "input": "I feel like I’m not living the life I want.",
+    "output": "It’s okay to feel this way. Let’s talk about what’s holding you back. You’re capable of creating the life you want, and I’m here to help you take the first steps."
+  },
+  {
+    "input": "I feel like I’m not making a difference in the world.",
+    "output": "You matter more than you realize. Let’s talk about what’s making you feel this way. Even small actions can have a big impact. You’re making a difference, and I’m here to help you see that."
+  },
+  {
+    "input": "I’m scared of making the wrong decisions.",
+    "output": "Decision-making can be tough, but it’s okay to make mistakes. Let’s talk about what’s worrying you. You’re capable, and I’m here to help you navigate this."
+  },
+  {
+    "input": "I feel like I’m not in control of my emotions.",
+    "output": "Emotions can feel overwhelming at times. Let’s talk about what’s going on. You’re not alone, and there are ways to manage these feelings. Would you like to explore some coping strategies?"
+  },
+  {
+    "input": "I feel like I’m losing my mind.",
+    "output": "Feeling this way can be scary, but you’re not alone. Let’s talk about what’s going on. You’re stronger than you think, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m failing at everything.",
+    "output": "It’s easy to feel this way when things get tough, but you’re not failing. Let’s talk about what’s making you feel this way. You’re capable, and I’m here to support you."
+  },
+  {
+    "input": "I’m scared of being judged for my mental health struggles.",
+    "output": "It’s okay to feel this way. Your mental health struggles don’t define you. Let’s talk about what’s worrying you. You’re safe here, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I am losing control",
+    "output": "Feeling out of control can be scary. Let’s talk about what’s happening. You’re not alone, and there are ways to regain a sense of stability. Would you like to explore some coping strategies?"
+  },
+  {
+    "input": "I can’t stop overthinking everything.",
+    "output": "Overthinking can be exhausting. Try focusing on the present moment, setting time limits for worry, or writing down your thoughts to gain perspective. Would you like a simple mindfulness exercise?"
+  },
+  {
+    "input": "When does the pain end?",
+    "output": "It is difficult to say exactly when pain will end as pain is relative. Pain, whether emotional or physical can feel unbearable but it does get better with time and support. Healing takes time, support and above all self-care. Would you like to talk more about what’s causing your pain? I’m here to listen and help in your healing process and to be numb to the pain."
+  },
+  {
+    "input": "What are some ways to reduce stress?",
+    "output": "Stress management is important for well-being. Exercise, meditation, journaling, and setting boundaries can help. Would you like some specific strategies to try?"
+  },
+  {
+    "input": "How do I measure progress in therapy?",
+    "output": "Progress in therapy can be measured in small baby steps, like feeling more in control of your thought and emotions. Setting specific goals while reflecting on your experiences can also help you recognize growth, improvement and progress. Would you like some ways to track your personal growth?"
+  },
+  {
+    "input": " I want to feel happier.",
+    "output": "Seeking happiness is a great step! What activities or things do you enjoy? We can explore ways to incorporate more of those into your life. I can recommend listening to Marshmello ft. Bastille - Happier, https://www.youtube.com/watch?v=m7Bc3pLyij0, link of the oficial music video"
+  },
+  {
+    "input": "okay / thankyou/ goodbye ",
+    "output": "Goodbye. I hope you feel better . For more support you can reach out to the following:\nRed Cross Kenya :0700395395 / 1199 \nBefrienders Kenya:0722178177 \nRed Cross gender based violence helpline: 0800720745 \nChiromo Hospital group : https//:chiromohospitalgroup.co.ke \nMental 360: https//:mental360.co.ke/"
+  },
+  {
+    "input": "I feel like I’m not good enough for my partner.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my spouse.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my boyfriend.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my girlfriend.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my husband.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my wife.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my family.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my friends.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my job.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by your job, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my peers.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my colleagues.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my boss.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my coworkers.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my classmates.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my teachers.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my parents.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my siblings.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
+    "input": "I feel like I’m not good enough for my children.",
+    "output": "You are enough just as you are. Let’s talk about what’s making you feel this way. Your worth isn’t defined by others, and I’m here to support you."
+  },
+  {
     "input": "I feel anxious",
     "output": "It's okay to feel this way. Let's explore what's causing these feelings."
   },
