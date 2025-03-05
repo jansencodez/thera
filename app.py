@@ -1,3 +1,5 @@
+import os
+import uvicorn
 from fastapi import FastAPI
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
@@ -12,7 +14,7 @@ origins = [
     "http://localhost:5500",
     "http://127.0.0.1:5500",
     "http://127.0.0.1:3000",
-    "http://172.25.176.1:3000"
+    "http://172.25.176.1:3000",
     "https://chatbot-gamma-smoky.vercel.app/"
 ]
 
@@ -30,3 +32,8 @@ class UserInput(BaseModel):
 @app.post("/chat")
 async def chat(user_input: UserInput):
     return StreamingResponse(generate_response(user_input.text), media_type="text/plain")
+
+# Ensure the app binds to Render's required port
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))  # Default to 8000 if PORT is not set
+    uvicorn.run(app, host="0.0.0.0", port=port)
